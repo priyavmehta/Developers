@@ -1,5 +1,5 @@
 {
-    "mongoURI" : "mongodb+srv://priyavmehta:priyavmehta@developers.gb45a.mongodb.net/developers?retryWrites=true&w=majority",
+    "mongoURI" : "mongodb+srv://<username>:<password>@developers.gb45a.mongodb.net/<dbname>?retryWrites=true&w=majority",
     "jwtSecret": "mysecrettoken",
     "githubClientId": "66d03133299a923b31bd",
     "githubClientSecret": "6d6e937ec0d187beb6a617d5a6509b88583cc5c2"
